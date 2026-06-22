@@ -74,7 +74,7 @@ NODE-PR-1-DATA-TABLES
 ### Clone Repository
 
 ```bash
-git clone https://github.com/devanshi794/NODE-PR-1-DATA-TABLES.git
+git clone https://github.com/Sacheetailor/NODE-PR-1-DATA-TABLE.git
 ```
 
 ### Move into Project
