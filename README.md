@@ -192,14 +192,6 @@ mongoose.connect(
 
 ![Delete Book](./screenshots/delete-book.png)
 
-### User Registration
-
-![User Registration](./screenshots/user-registration.png)
-
-### User Login
-
-![User Login](./screenshots/user-login.png)
-
 ### Update User
 
 ![Update User](./screenshots/update-user.png)
@@ -219,6 +211,14 @@ npm start
 ```bash
 npm run dev
 ```
+
+---
+
+## 🎥 Project Explanation Video
+
+Watch the complete project explanation video here:
+
+🔗 
 
 ---
 
