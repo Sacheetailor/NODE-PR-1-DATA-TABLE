@@ -218,7 +218,7 @@ npm run dev
 
 Watch the complete project explanation video here:
 
-🔗 
+🔗 https://drive.google.com/file/d/1Ugcfl6Rebkaoe8pPfhtBl1DtHNrnAccG/view?usp=sharing
 
 ---
 
